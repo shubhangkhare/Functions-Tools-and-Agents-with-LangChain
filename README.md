@@ -1,4 +1,4 @@
-# Advanced Language Model Applications Course
+# Functions, Tools and Agents with LangChain
 
 ## Course Overview
 
